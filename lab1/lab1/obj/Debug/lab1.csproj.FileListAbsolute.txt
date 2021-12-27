@@ -1,0 +1,17 @@
+C:\Users\Den\source\repos\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Den\source\repos\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Den\source\repos\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.Lab2.resources
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.BuilderForm.resources
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.IteratorForm.resources
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.StrategyForm.resources
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.FactoryForm.resources
+C:\Users\Den\source\repos\lab1\lab1\obj\Debug\lab1.PrototypeForm.resources
